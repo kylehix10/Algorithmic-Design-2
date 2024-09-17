@@ -1,0 +1,21 @@
+ For: Nguyen, M; Volume: 113.0; Weight: 1.2
+  For: Potter, H; Volume: 123.0; Weight: 456.0
+  For: Doe, J; Volume: 124.3; Weight: 0.4
+  For: O'Malley, S; Volume: 167.0; Weight: 1.1
+  For: Patel, H; Volume: 184.3; Weight: 2.31
+  For: King, P; Volume: 198.0; Weight: 0.6
+  For: Suluman, V; Volume: 215.0; Weight: 0.8
+  For: Quinn, S; Volume: 218.0; Weight: 2.3
+  For: Dodd, N; Volume: 221.7; Weight: 1.86
+  For: Hernandez, C; Volume: 225.0; Weight: 1.83
+  For: Smith, Q; Volume: 227.0; Weight: 1.3
+  For: Ali, M; Volume: 238.0; Weight: 1.13
+  For: Williams, B; Volume: 250.0; Weight: 2.6
+  For: Xu, Q; Volume: 256.0; Weight: 0.75
+  For: Cruz, N; Volume: 315.0; Weight: 2.18
+  For: Jones, M; Volume: 324.0; Weight: 1.9
+  For: Williams, S; Volume: 348.0; Weight: 2.4
+  For: Zimmer, O; Volume: 423.6; Weight: 3.1
+  For: Tedeschi, Y; Volume: 563.0; Weight: 1.8
+  For: Anderson, E; Volume: 813.0; Weight: 10.7
+  
