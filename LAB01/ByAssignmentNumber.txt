@@ -1,0 +1,9 @@
+Title:Lab One  | Assignment Number: 1 | Percent of Grade: 6.0%
+Title:Homework One  | Assignment Number: 2 | Percent of Grade: 8.0%
+Title:Quiz 1  | Assignment Number: 3 | Percent of Grade: 2.0%
+Title:Lab Two  | Assignment Number: 4 | Percent of Grade: 6.0%
+Title:Homework Two  | Assignment Number: 5 | Percent of Grade: 8.0%
+Title:Quiz 2  | Assignment Number: 6 | Percent of Grade: 2.0%
+Title:Lab Three  | Assignment Number: 7 | Percent of Grade: 6.0%
+Title:Homework Three  | Assignment Number: 8 | Percent of Grade: 8.0%
+Title:Quiz 3  | Assignment Number: 9 | Percent of Grade: 2.0%
