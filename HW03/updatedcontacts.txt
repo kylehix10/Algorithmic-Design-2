@@ -1,0 +1,8 @@
+Contact Name: dude, Info: person
+Contact Name: B. Hipp, Info: bhipp@cse.sc.edu
+Contact Name: Jenny, Info: 8675309
+Contact Name: Emergency, Info: 911
+Contact Name: Information, Info: 411
+Contact Name: Gamecock Athletics, Info: @GamecocksOnline
+Contact Name: The Carolina Band, Info: @TheCarolinaBand
+
