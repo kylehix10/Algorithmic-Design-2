@@ -1,0 +1,26 @@
+Ms. S	construction paper	19.84
+Ms. L	hand sanitizer	11.27
+Ms. G	scissors	7.64
+M. Q	cornhole set	123.76
+Ms. A	dry erase markers	14.29
+Mr. R	world map	21.90
+Ms. W	globe	19.99
+Ms. K	graphing calculator	110
+Dr. Z	robot kit	79.99
+Ms. Y	bluetooth headphones	18.94
+Ms. O	paint	24.71
+Mr. B	stickers	6.49
+Dr. U	paint brushes	9.52
+Mr. C	apron	14.17
+Ms. T	safety goggles	16.95
+Dr. N	tape measure	9.22
+Ms. D	three ring binder	5.13
+Dr. X	bandages	13.12
+Ms. H	copy paper	40
+Mr. I 	coloring book	12.53	
+Mr. V	marbles	6.49
+Dr. M	bean bag chair	120
+Mr. E	foosball table	143.26
+Mr. F	rug	32.27
+Mr. P	mop	24.97
+Dr. J	basketball	19.99
